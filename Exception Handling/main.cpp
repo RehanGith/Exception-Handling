@@ -17,5 +17,6 @@ double division(int nominator, int dinominoter) {
 }
 
 int main() {
-
+	double num = division(2, 0);
+	return 0;
 }
